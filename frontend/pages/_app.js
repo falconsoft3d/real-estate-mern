@@ -1,3 +1,4 @@
+import "bootswatch/dist/lux/bootstrap.min.css"
 import '../scss/globals.scss'
 
 function MyApp({ Component, pageProps }) {
